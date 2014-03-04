@@ -416,6 +416,7 @@ lvl3gec:
 				}
 				else if(dr=='w' && lab2[d-1][e]==' ')
 				{
+
 					system("CLS");
 					d--;
 					lab2[d][e]='\1';
